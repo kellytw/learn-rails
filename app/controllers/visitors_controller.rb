@@ -8,6 +8,5 @@ class VisitorsController < ApplicationController
 		#flash[:notice] = "Welcome!"
 		#	if @owner.countdown < 365
 		#	flash[:alert] = "Remember my birthday is coming up"
-		end
 	end
 end
